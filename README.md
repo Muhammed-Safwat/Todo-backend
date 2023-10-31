@@ -11,6 +11,9 @@ This Java Spring Boot application is designed to manage to-do lists and provide 
 - Social login and registration using popular social media platforms.
 - Secure and easy-to-use API endpoints for managing tasks and user accounts.
 
+## Class Digram
+<img src="Todo_App.jpg" alt="Calss digram.....">
+
 ## Technology
 
 - **Java 11**: The application is built using Java 11, harnessing its robust features and compatibility.
